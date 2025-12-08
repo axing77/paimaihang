@@ -1,0 +1,28 @@
+# Compressed archives
+*.7z
+*.zip
+*.rar
+*.tar.gz
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+temp/
