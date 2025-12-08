@@ -1,6 +1,8 @@
 # Compressed archives
 *.7z
-*.zip
+# *.zip - Commented out to allow direct zip downloads for addon distribution
+# Allow Auctionator.zip for direct download
+!Auctionator.zip
 *.rar
 *.tar.gz
 
